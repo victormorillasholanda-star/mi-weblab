@@ -235,3 +235,13 @@ La entrega inicial se revisa en local para rutas relativas, fragmentos, recursos
 Proyecto base preparado con asistencia de IA para uso docente en LMSGI. Los diagramas SVG y el favicon se han creado para este proyecto; no se incluyen fotografías o fuentes de terceros. El docente y el alumnado pueden añadir sus nombres a los créditos al adaptar el material, según sus preferencias de publicación.
 
 El código, los textos originales y los SVG de esta entrega se distribuyen bajo [licencia MIT](LICENSE). Las páginas externas conservan sus propias condiciones de uso. Si incorporas nuevos recursos, documenta su autoría, origen y licencia.
+## Trabajo realizado
+
+- Clonación de un repositorio conservando su historial.
+- Configuración de repositorios remotos con `origin` y `upstream`.
+- Personalización de la web y creación de páginas de recursos.
+- Uso de ramas, commits y Pull Requests.
+- Renombrado y eliminación de archivos con Git.
+- Resolución de un conflicto de fusión entre dos ramas.
+- Práctica de `git revert` para deshacer un cambio conservando el historial.
+- Creación de etiquetas para identificar versiones del proyecto.
