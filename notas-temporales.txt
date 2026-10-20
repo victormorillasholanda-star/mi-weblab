@@ -1,0 +1,2 @@
+Archivo temporal para practicar Git.
+Lo añadiré al repositorio y después lo eliminaré del control de versiones.
