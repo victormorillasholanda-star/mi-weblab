@@ -1,8 +1,12 @@
-# WebLab — Tu primera web, paso a paso
+# WebLab — Mi laboratorio web
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
 
 WebLab es un minicurso multipágina sobre cómo crear una web con **HTML, CSS y JavaScript vainilla**. El propio sitio sirve como ejemplo que el alumnado puede leer, modificar y versionar con Git. Esta primera versión es deliberadamente pequeña: seis páginas, una hoja de estilos compartida, un script común y recursos locales.
+
+**Repositorio original:** https://github.com/franmatias/weblab
+
+**Mi repositorio:** https://github.com/victormorillasholanda-star/mi-weblab
 
 No necesita frameworks, paquetes, compilación, cuenta de usuario ni conexión a Internet para leer las lecciones. Los enlaces a documentación externa sí necesitan conexión. No incluye servidor, envío de formularios ni almacenamiento de datos.
 
@@ -90,7 +94,7 @@ Si tienes Python instalado, abre una terminal **dentro de `weblab`**:
 python -m http.server 8000
 ```
 
-Visita [http://localhost:8000](http://localhost:8000). Para detenerlo, pulsa `Ctrl+C` en la terminal. También puedes usar una extensión de servidor local de tu editor. No es necesario instalar dependencias del proyecto.
+Visita http://localhost:8000. Para detenerlo, pulsa `Ctrl+C` en la terminal. También puedes usar una extensión de servidor local de tu editor. No es necesario instalar dependencias del proyecto.
 
 ## Accesibilidad y adaptación
 
@@ -120,7 +124,7 @@ Los controles de la lista final son una ayuda de revisión: cuentan los elemento
 
 ## Preparar Git y subir a GitHub
 
-El ZIP entrega los archivos, **sin carpeta `.git`, commits ni tags precreados**. Así cada clase puede crear su historial real. El código de esta entrega ya contiene la base completa solicitada para v0.1; los siguientes commits deben registrar mejoras reales, sin simular un historial anterior.
+El ZIP entrega los archivos, **sin carpeta `.git`, commits ni tags precreados**. Así cada clase puede crear su historial real. El código de esta entrega contiene la base del minicurso; los siguientes commits deben registrar mejoras reales, sin simular un historial anterior.
 
 ### 1. Identidad y primer commit
 
